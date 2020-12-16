@@ -1,6 +1,5 @@
 # Eclipse Keymap for Visual Studio Code
 
-
 This extension ports popular Eclipse keyboard shortcuts to Visual Studio Code.
 Eclipse key bindings are provided for Windows, Linux and macOS.
 
